@@ -874,6 +874,12 @@ margin-top: 4rem;
   color: var(--text-color);
 }
 
+.app__buttons-footer {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  justify-content: left;
+}
+
 .footer__content,
 .footer__links {
   display: grid;
